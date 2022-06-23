@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "hello-pn-p-controls",
+    "libraryId": "309970e3-29c8-4dff-9636-52a01ca0ef39",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "HelloPnPControls",
+    "solutionShortDescription": "HelloPnPControls description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
